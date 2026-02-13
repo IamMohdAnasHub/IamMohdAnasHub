@@ -28,3 +28,8 @@ Create projects that help people and improve my skills daily.
 ---
 
 ⭐ Thanks for visiting my profile
+## 📊 GitHub Stats
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=IamMohdAnasHub&show_icons=true)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=IamMohdAnasHub)
