@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+IamMohdAnas+GitHub;Learning+Tech+Step+by+Step;Building+Future+Projects&center=true&width=500&height=45">
+</p>
+
 # Hi, I'm IamMohdAnas 👋
 
 Welcome to my GitHub profile!
